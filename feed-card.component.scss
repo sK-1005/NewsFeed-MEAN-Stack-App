@@ -1,0 +1,28 @@
+:host {
+  display: block;
+}
+
+h4 {
+  padding: 0;
+  margin: 0;
+  margin-bottom: 1rem;
+}
+
+.domain {
+  margin-bottom: 1rem;
+}
+
+.points {
+  background: #f4613d;
+  color: #fff;
+  padding: 0.5rem 1rem;
+  border-radius: 1rem;
+  display: inline-block;
+  min-width: 100px;
+  text-align: center;
+  margin-right: 0.5rem;
+}
+
+.author {
+  font-weight: bold;
+}
